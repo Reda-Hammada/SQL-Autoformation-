@@ -1,1 +1,1 @@
-CREATE DATABASE 'student'
+CREATE DATABASE `student`;
