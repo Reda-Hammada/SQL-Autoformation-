@@ -1,0 +1,1 @@
+SELECT Nom, Jour, Heure FROM personne INNER JOIN rdv ON personne.idP = rdv.idP WHERE Nom="FATIMA";
